@@ -1,0 +1,1854 @@
+[
+  {
+    "sku": "SKU-0001",
+    "slug": "barbearia-premium-1",
+    "name": "Barbearia Premium",
+    "brand": "KAPS",
+    "category": "beleza",
+    "price": 161.63,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Branco",
+      "Preto",
+      "Verde"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0002",
+    "slug": "garrafa-termica-2",
+    "name": "Garrafa Térmica",
+    "brand": "VEXA",
+    "category": "casa",
+    "price": 193.79,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Branco",
+      "Cinza",
+      "Verde"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0003",
+    "slug": "bota-urbana-3",
+    "name": "Bota Urbana",
+    "brand": "NEBULA",
+    "category": "calcados",
+    "price": 266.43,
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "colors": [
+      "Verde",
+      "Branco",
+      "Cinza"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0004",
+    "slug": "power-bank-20k-4",
+    "name": "Power Bank 20k",
+    "brand": "NEBULA",
+    "category": "eletronicos",
+    "price": 143.01,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Branco",
+      "Cinza",
+      "Preto"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0005",
+    "slug": "luminaria-led-5",
+    "name": "Luminária LED",
+    "brand": "ZENKO",
+    "category": "casa",
+    "price": 192.89,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Branco",
+      "Preto",
+      "Vermelho"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0006",
+    "slug": "mochila-city-6",
+    "name": "Mochila City",
+    "brand": "VEXA",
+    "category": "acessorios",
+    "price": 388.39,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Azul",
+      "Verde",
+      "Preto"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0007",
+    "slug": "tenis-casual-7",
+    "name": "Tênis Casual",
+    "brand": "TRINO",
+    "category": "calcados",
+    "price": 213.27,
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "colors": [
+      "Cinza",
+      "Azul",
+      "Preto"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0008",
+    "slug": "moletom-oversize-8",
+    "name": "Moletom Oversize",
+    "brand": "VEXA",
+    "category": "moda",
+    "price": 361.13,
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG"
+    ],
+    "colors": [
+      "Vermelho",
+      "Preto",
+      "Azul"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0009",
+    "slug": "tenis-casual-9",
+    "name": "Tênis Casual",
+    "brand": "KAPS",
+    "category": "calcados",
+    "price": 276.33,
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "colors": [
+      "Verde",
+      "Branco",
+      "Cinza"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0010",
+    "slug": "oculos-sport-10",
+    "name": "Óculos Sport",
+    "brand": "URBANX",
+    "category": "acessorios",
+    "price": 311.61,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Cinza",
+      "Vermelho",
+      "Preto"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0011",
+    "slug": "tenis-casual-11",
+    "name": "Tênis Casual",
+    "brand": "TRINO",
+    "category": "calcados",
+    "price": 38.96,
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "colors": [
+      "Branco",
+      "Preto",
+      "Verde"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0012",
+    "slug": "jaqueta-corta-vento-12",
+    "name": "Jaqueta Corta Vento",
+    "brand": "KAPS",
+    "category": "moda",
+    "price": 246.39,
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG"
+    ],
+    "colors": [
+      "Azul",
+      "Verde",
+      "Vermelho"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0013",
+    "slug": "bota-urbana-13",
+    "name": "Bota Urbana",
+    "brand": "URBANX",
+    "category": "calcados",
+    "price": 350.42,
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "colors": [
+      "Branco",
+      "Azul",
+      "Preto"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0014",
+    "slug": "garrafa-termica-14",
+    "name": "Garrafa Térmica",
+    "brand": "ZENKO",
+    "category": "casa",
+    "price": 308.05,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Branco",
+      "Verde",
+      "Azul"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0015",
+    "slug": "camiseta-dryfit-15",
+    "name": "Camiseta DryFit",
+    "brand": "TRINO",
+    "category": "moda",
+    "price": 331.75,
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG"
+    ],
+    "colors": [
+      "Branco",
+      "Preto",
+      "Cinza"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0016",
+    "slug": "luminaria-led-16",
+    "name": "Luminária LED",
+    "brand": "KAPS",
+    "category": "casa",
+    "price": 294.72,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Branco",
+      "Verde",
+      "Azul"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0017",
+    "slug": "power-bank-20k-17",
+    "name": "Power Bank 20k",
+    "brand": "KAPS",
+    "category": "eletronicos",
+    "price": 218.15,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Verde",
+      "Branco",
+      "Cinza"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0018",
+    "slug": "fone-bluetooth-18",
+    "name": "Fone Bluetooth",
+    "brand": "VEXA",
+    "category": "eletronicos",
+    "price": 252.07,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Preto",
+      "Vermelho",
+      "Verde"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0019",
+    "slug": "mochila-city-19",
+    "name": "Mochila City",
+    "brand": "ZENKO",
+    "category": "acessorios",
+    "price": 365.94,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Cinza",
+      "Branco",
+      "Preto"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0020",
+    "slug": "hidratante-corpo-20",
+    "name": "Hidratante Corpo",
+    "brand": "URBANX",
+    "category": "beleza",
+    "price": 352.58,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Branco",
+      "Vermelho",
+      "Cinza"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0021",
+    "slug": "bone-classic-21",
+    "name": "Boné Classic",
+    "brand": "VEXA",
+    "category": "acessorios",
+    "price": 266.73,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Azul",
+      "Preto",
+      "Cinza"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0022",
+    "slug": "oculos-sport-22",
+    "name": "Óculos Sport",
+    "brand": "ZENKO",
+    "category": "acessorios",
+    "price": 251.39,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Branco",
+      "Cinza",
+      "Preto"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0023",
+    "slug": "chinelo-confort-23",
+    "name": "Chinelo Confort",
+    "brand": "NEBULA",
+    "category": "calcados",
+    "price": 43.87,
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "colors": [
+      "Branco",
+      "Azul",
+      "Verde"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0024",
+    "slug": "sapatenis-flex-24",
+    "name": "Sapatênis Flex",
+    "brand": "ZENKO",
+    "category": "calcados",
+    "price": 212.44,
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "colors": [
+      "Branco",
+      "Preto",
+      "Vermelho"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0025",
+    "slug": "luminaria-led-25",
+    "name": "Luminária LED",
+    "brand": "VEXA",
+    "category": "casa",
+    "price": 179.99,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Preto",
+      "Verde",
+      "Branco"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0026",
+    "slug": "oculos-sport-26",
+    "name": "Óculos Sport",
+    "brand": "VEXA",
+    "category": "acessorios",
+    "price": 55.19,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Cinza",
+      "Preto",
+      "Azul"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0027",
+    "slug": "chinelo-confort-27",
+    "name": "Chinelo Confort",
+    "brand": "KAPS",
+    "category": "calcados",
+    "price": 317.09,
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "colors": [
+      "Azul",
+      "Verde",
+      "Preto"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0028",
+    "slug": "sapatenis-flex-28",
+    "name": "Sapatênis Flex",
+    "brand": "ZENKO",
+    "category": "calcados",
+    "price": 366.75,
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "colors": [
+      "Azul",
+      "Branco",
+      "Vermelho"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0029",
+    "slug": "hidratante-corpo-29",
+    "name": "Hidratante Corpo",
+    "brand": "URBANX",
+    "category": "beleza",
+    "price": 69.54,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Preto",
+      "Cinza",
+      "Branco"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0030",
+    "slug": "fone-bluetooth-30",
+    "name": "Fone Bluetooth",
+    "brand": "VEXA",
+    "category": "eletronicos",
+    "price": 201.23,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Verde",
+      "Cinza",
+      "Branco"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0031",
+    "slug": "luminaria-led-31",
+    "name": "Luminária LED",
+    "brand": "TRINO",
+    "category": "casa",
+    "price": 365.79,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Azul",
+      "Cinza",
+      "Verde"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0032",
+    "slug": "tenis-casual-32",
+    "name": "Tênis Casual",
+    "brand": "ZENKO",
+    "category": "calcados",
+    "price": 234.48,
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "colors": [
+      "Azul",
+      "Branco",
+      "Preto"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0033",
+    "slug": "carteira-slim-33",
+    "name": "Carteira Slim",
+    "brand": "VEXA",
+    "category": "acessorios",
+    "price": 145.72,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Branco",
+      "Preto",
+      "Cinza"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0034",
+    "slug": "bermuda-essential-34",
+    "name": "Bermuda Essential",
+    "brand": "URBANX",
+    "category": "moda",
+    "price": 178.49,
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG"
+    ],
+    "colors": [
+      "Branco",
+      "Preto",
+      "Verde"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0035",
+    "slug": "hidratante-corpo-35",
+    "name": "Hidratante Corpo",
+    "brand": "VEXA",
+    "category": "beleza",
+    "price": 297.29,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Verde",
+      "Vermelho",
+      "Branco"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0036",
+    "slug": "travesseiro-max-36",
+    "name": "Travesseiro Max",
+    "brand": "VEXA",
+    "category": "casa",
+    "price": 387.09,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Branco",
+      "Preto",
+      "Vermelho"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0037",
+    "slug": "barbearia-premium-37",
+    "name": "Barbearia Premium",
+    "brand": "KAPS",
+    "category": "beleza",
+    "price": 103.49,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Cinza",
+      "Branco",
+      "Azul"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0038",
+    "slug": "fone-bluetooth-38",
+    "name": "Fone Bluetooth",
+    "brand": "KAPS",
+    "category": "eletronicos",
+    "price": 193.61,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Branco",
+      "Verde",
+      "Preto"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0039",
+    "slug": "bermuda-essential-39",
+    "name": "Bermuda Essential",
+    "brand": "ZENKO",
+    "category": "moda",
+    "price": 358.59,
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG"
+    ],
+    "colors": [
+      "Vermelho",
+      "Branco",
+      "Preto"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0040",
+    "slug": "barbearia-premium-40",
+    "name": "Barbearia Premium",
+    "brand": "KAPS",
+    "category": "beleza",
+    "price": 231.78,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Branco",
+      "Azul",
+      "Vermelho"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0041",
+    "slug": "sapatenis-flex-41",
+    "name": "Sapatênis Flex",
+    "brand": "TRINO",
+    "category": "calcados",
+    "price": 306.79,
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "colors": [
+      "Branco",
+      "Preto",
+      "Azul"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0042",
+    "slug": "caixa-de-som-mini-42",
+    "name": "Caixa de Som Mini",
+    "brand": "VEXA",
+    "category": "eletronicos",
+    "price": 35.9,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Branco",
+      "Azul",
+      "Vermelho"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0043",
+    "slug": "camiseta-dryfit-43",
+    "name": "Camiseta DryFit",
+    "brand": "URBANX",
+    "category": "moda",
+    "price": 109.32,
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG"
+    ],
+    "colors": [
+      "Vermelho",
+      "Branco",
+      "Cinza"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0044",
+    "slug": "jaqueta-corta-vento-44",
+    "name": "Jaqueta Corta Vento",
+    "brand": "URBANX",
+    "category": "moda",
+    "price": 169.18,
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG"
+    ],
+    "colors": [
+      "Branco",
+      "Cinza",
+      "Preto"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0045",
+    "slug": "relogio-smart-45",
+    "name": "Relógio Smart",
+    "brand": "VEXA",
+    "category": "eletronicos",
+    "price": 112.89,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Cinza",
+      "Vermelho",
+      "Branco"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0046",
+    "slug": "carteira-slim-46",
+    "name": "Carteira Slim",
+    "brand": "KAPS",
+    "category": "acessorios",
+    "price": 196.35,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Preto",
+      "Vermelho",
+      "Branco"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0047",
+    "slug": "hidratante-corpo-47",
+    "name": "Hidratante Corpo",
+    "brand": "NEBULA",
+    "category": "beleza",
+    "price": 361.77,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Azul",
+      "Vermelho",
+      "Preto"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0048",
+    "slug": "garrafa-termica-48",
+    "name": "Garrafa Térmica",
+    "brand": "NEBULA",
+    "category": "casa",
+    "price": 211.46,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Cinza",
+      "Preto",
+      "Verde"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0049",
+    "slug": "barbearia-premium-49",
+    "name": "Barbearia Premium",
+    "brand": "ZENKO",
+    "category": "beleza",
+    "price": 121.9,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Branco",
+      "Cinza",
+      "Vermelho"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0050",
+    "slug": "garrafa-termica-50",
+    "name": "Garrafa Térmica",
+    "brand": "NEBULA",
+    "category": "casa",
+    "price": 265.63,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Vermelho",
+      "Branco",
+      "Verde"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0051",
+    "slug": "camiseta-dryfit-51",
+    "name": "Camiseta DryFit",
+    "brand": "VEXA",
+    "category": "moda",
+    "price": 144.87,
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG"
+    ],
+    "colors": [
+      "Vermelho",
+      "Cinza",
+      "Azul"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0052",
+    "slug": "chinelo-confort-52",
+    "name": "Chinelo Confort",
+    "brand": "VEXA",
+    "category": "calcados",
+    "price": 290.6,
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "colors": [
+      "Azul",
+      "Cinza",
+      "Verde"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0053",
+    "slug": "bota-urbana-53",
+    "name": "Bota Urbana",
+    "brand": "URBANX",
+    "category": "calcados",
+    "price": 303.56,
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "colors": [
+      "Cinza",
+      "Azul",
+      "Vermelho"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0054",
+    "slug": "luminaria-led-54",
+    "name": "Luminária LED",
+    "brand": "ZENKO",
+    "category": "casa",
+    "price": 46.01,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Preto",
+      "Vermelho",
+      "Azul"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0055",
+    "slug": "camiseta-dryfit-55",
+    "name": "Camiseta DryFit",
+    "brand": "ZENKO",
+    "category": "moda",
+    "price": 205.51,
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG"
+    ],
+    "colors": [
+      "Cinza",
+      "Verde",
+      "Azul"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0056",
+    "slug": "relogio-smart-56",
+    "name": "Relógio Smart",
+    "brand": "URBANX",
+    "category": "eletronicos",
+    "price": 263.14,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Vermelho",
+      "Verde",
+      "Cinza"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0057",
+    "slug": "hidratante-corpo-57",
+    "name": "Hidratante Corpo",
+    "brand": "TRINO",
+    "category": "beleza",
+    "price": 99.44,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Cinza",
+      "Branco",
+      "Preto"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0058",
+    "slug": "fone-bluetooth-58",
+    "name": "Fone Bluetooth",
+    "brand": "URBANX",
+    "category": "eletronicos",
+    "price": 287.43,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Preto",
+      "Vermelho",
+      "Azul"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0059",
+    "slug": "kit-skincare-59",
+    "name": "Kit Skincare",
+    "brand": "ZENKO",
+    "category": "beleza",
+    "price": 241.98,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Vermelho",
+      "Branco",
+      "Azul"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0060",
+    "slug": "camiseta-dryfit-60",
+    "name": "Camiseta DryFit",
+    "brand": "TRINO",
+    "category": "moda",
+    "price": 309.77,
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG"
+    ],
+    "colors": [
+      "Preto",
+      "Verde",
+      "Vermelho"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0061",
+    "slug": "bone-classic-61",
+    "name": "Boné Classic",
+    "brand": "KAPS",
+    "category": "acessorios",
+    "price": 171.75,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Branco",
+      "Preto",
+      "Azul"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0062",
+    "slug": "oculos-sport-62",
+    "name": "Óculos Sport",
+    "brand": "NEBULA",
+    "category": "acessorios",
+    "price": 285.22,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Azul",
+      "Verde",
+      "Cinza"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0063",
+    "slug": "oculos-sport-63",
+    "name": "Óculos Sport",
+    "brand": "VEXA",
+    "category": "acessorios",
+    "price": 43.76,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Verde",
+      "Branco",
+      "Preto"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0064",
+    "slug": "jaqueta-corta-vento-64",
+    "name": "Jaqueta Corta Vento",
+    "brand": "KAPS",
+    "category": "moda",
+    "price": 334.29,
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG"
+    ],
+    "colors": [
+      "Cinza",
+      "Azul",
+      "Verde"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0065",
+    "slug": "mochila-city-65",
+    "name": "Mochila City",
+    "brand": "TRINO",
+    "category": "acessorios",
+    "price": 172.05,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Branco",
+      "Cinza",
+      "Preto"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0066",
+    "slug": "chinelo-confort-66",
+    "name": "Chinelo Confort",
+    "brand": "URBANX",
+    "category": "calcados",
+    "price": 237.84,
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "colors": [
+      "Azul",
+      "Preto",
+      "Branco"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0067",
+    "slug": "power-bank-20k-67",
+    "name": "Power Bank 20k",
+    "brand": "ZENKO",
+    "category": "eletronicos",
+    "price": 235.15,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Vermelho",
+      "Cinza",
+      "Azul"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0068",
+    "slug": "travesseiro-max-68",
+    "name": "Travesseiro Max",
+    "brand": "KAPS",
+    "category": "casa",
+    "price": 361.68,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Branco",
+      "Vermelho",
+      "Preto"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0069",
+    "slug": "mochila-city-69",
+    "name": "Mochila City",
+    "brand": "NEBULA",
+    "category": "acessorios",
+    "price": 77.68,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Preto",
+      "Azul",
+      "Vermelho"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0070",
+    "slug": "bone-classic-70",
+    "name": "Boné Classic",
+    "brand": "TRINO",
+    "category": "acessorios",
+    "price": 238.7,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Azul",
+      "Cinza",
+      "Preto"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0071",
+    "slug": "hidratante-corpo-71",
+    "name": "Hidratante Corpo",
+    "brand": "KAPS",
+    "category": "beleza",
+    "price": 92.02,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Preto",
+      "Branco",
+      "Vermelho"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0072",
+    "slug": "camiseta-dryfit-72",
+    "name": "Camiseta DryFit",
+    "brand": "URBANX",
+    "category": "moda",
+    "price": 239.52,
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG"
+    ],
+    "colors": [
+      "Vermelho",
+      "Azul",
+      "Cinza"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0073",
+    "slug": "bota-urbana-73",
+    "name": "Bota Urbana",
+    "brand": "URBANX",
+    "category": "calcados",
+    "price": 73.94,
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "colors": [
+      "Cinza",
+      "Vermelho",
+      "Preto"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0074",
+    "slug": "hidratante-corpo-74",
+    "name": "Hidratante Corpo",
+    "brand": "URBANX",
+    "category": "beleza",
+    "price": 296.48,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Vermelho",
+      "Azul",
+      "Verde"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0075",
+    "slug": "tenis-casual-75",
+    "name": "Tênis Casual",
+    "brand": "ZENKO",
+    "category": "calcados",
+    "price": 271.83,
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "colors": [
+      "Preto",
+      "Branco",
+      "Verde"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0076",
+    "slug": "power-bank-20k-76",
+    "name": "Power Bank 20k",
+    "brand": "NEBULA",
+    "category": "eletronicos",
+    "price": 364.77,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Verde",
+      "Azul",
+      "Cinza"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0077",
+    "slug": "hidratante-corpo-77",
+    "name": "Hidratante Corpo",
+    "brand": "NEBULA",
+    "category": "beleza",
+    "price": 270.96,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Verde",
+      "Branco",
+      "Cinza"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0078",
+    "slug": "hidratante-corpo-78",
+    "name": "Hidratante Corpo",
+    "brand": "URBANX",
+    "category": "beleza",
+    "price": 249.99,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Cinza",
+      "Preto",
+      "Vermelho"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0079",
+    "slug": "jaqueta-corta-vento-79",
+    "name": "Jaqueta Corta Vento",
+    "brand": "URBANX",
+    "category": "moda",
+    "price": 98.65,
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG"
+    ],
+    "colors": [
+      "Azul",
+      "Preto",
+      "Branco"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0080",
+    "slug": "tenis-casual-80",
+    "name": "Tênis Casual",
+    "brand": "TRINO",
+    "category": "calcados",
+    "price": 377.39,
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "colors": [
+      "Cinza",
+      "Verde",
+      "Branco"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0081",
+    "slug": "sapatenis-flex-81",
+    "name": "Sapatênis Flex",
+    "brand": "URBANX",
+    "category": "calcados",
+    "price": 227.13,
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "colors": [
+      "Cinza",
+      "Preto",
+      "Verde"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0082",
+    "slug": "fone-bluetooth-82",
+    "name": "Fone Bluetooth",
+    "brand": "KAPS",
+    "category": "eletronicos",
+    "price": 254.7,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Azul",
+      "Preto",
+      "Vermelho"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0083",
+    "slug": "kit-skincare-83",
+    "name": "Kit Skincare",
+    "brand": "VEXA",
+    "category": "beleza",
+    "price": 221.13,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Azul",
+      "Cinza",
+      "Preto"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0084",
+    "slug": "chinelo-confort-84",
+    "name": "Chinelo Confort",
+    "brand": "TRINO",
+    "category": "calcados",
+    "price": 315.79,
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "colors": [
+      "Vermelho",
+      "Cinza",
+      "Branco"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0085",
+    "slug": "jogo-de-lencol-85",
+    "name": "Jogo de Lençol",
+    "brand": "VEXA",
+    "category": "casa",
+    "price": 374.66,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Branco",
+      "Vermelho",
+      "Verde"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0086",
+    "slug": "power-bank-20k-86",
+    "name": "Power Bank 20k",
+    "brand": "TRINO",
+    "category": "eletronicos",
+    "price": 211.43,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Azul",
+      "Verde",
+      "Preto"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0087",
+    "slug": "garrafa-termica-87",
+    "name": "Garrafa Térmica",
+    "brand": "URBANX",
+    "category": "casa",
+    "price": 223.44,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Verde",
+      "Vermelho",
+      "Branco"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0088",
+    "slug": "carteira-slim-88",
+    "name": "Carteira Slim",
+    "brand": "TRINO",
+    "category": "acessorios",
+    "price": 359.35,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Branco",
+      "Vermelho",
+      "Cinza"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0089",
+    "slug": "power-bank-20k-89",
+    "name": "Power Bank 20k",
+    "brand": "NEBULA",
+    "category": "eletronicos",
+    "price": 350.07,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Azul",
+      "Cinza",
+      "Vermelho"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0090",
+    "slug": "tenis-casual-90",
+    "name": "Tênis Casual",
+    "brand": "NEBULA",
+    "category": "calcados",
+    "price": 163.07,
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "colors": [
+      "Branco",
+      "Vermelho",
+      "Cinza"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0091",
+    "slug": "travesseiro-max-91",
+    "name": "Travesseiro Max",
+    "brand": "NEBULA",
+    "category": "casa",
+    "price": 273.41,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Verde",
+      "Preto",
+      "Cinza"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0092",
+    "slug": "chinelo-confort-92",
+    "name": "Chinelo Confort",
+    "brand": "URBANX",
+    "category": "calcados",
+    "price": 101.14,
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "colors": [
+      "Azul",
+      "Cinza",
+      "Branco"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0093",
+    "slug": "mochila-city-93",
+    "name": "Mochila City",
+    "brand": "NEBULA",
+    "category": "acessorios",
+    "price": 143.73,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Vermelho",
+      "Verde",
+      "Azul"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0094",
+    "slug": "bermuda-essential-94",
+    "name": "Bermuda Essential",
+    "brand": "KAPS",
+    "category": "moda",
+    "price": 188.02,
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG"
+    ],
+    "colors": [
+      "Cinza",
+      "Branco",
+      "Preto"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0095",
+    "slug": "bone-classic-95",
+    "name": "Boné Classic",
+    "brand": "NEBULA",
+    "category": "acessorios",
+    "price": 319.02,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Cinza",
+      "Branco",
+      "Preto"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0096",
+    "slug": "sapatenis-flex-96",
+    "name": "Sapatênis Flex",
+    "brand": "KAPS",
+    "category": "calcados",
+    "price": 79.02,
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "colors": [
+      "Branco",
+      "Azul",
+      "Preto"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0097",
+    "slug": "mochila-city-97",
+    "name": "Mochila City",
+    "brand": "URBANX",
+    "category": "acessorios",
+    "price": 97.01,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Azul",
+      "Cinza",
+      "Branco"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0098",
+    "slug": "bone-classic-98",
+    "name": "Boné Classic",
+    "brand": "NEBULA",
+    "category": "acessorios",
+    "price": 134.57,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Verde",
+      "Preto",
+      "Branco"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0099",
+    "slug": "relogio-smart-99",
+    "name": "Relógio Smart",
+    "brand": "TRINO",
+    "category": "eletronicos",
+    "price": 383.81,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Branco",
+      "Azul",
+      "Preto"
+    ],
+    "image": "/banner1.png"
+  },
+  {
+    "sku": "SKU-0100",
+    "slug": "oculos-sport-100",
+    "name": "Óculos Sport",
+    "brand": "VEXA",
+    "category": "acessorios",
+    "price": 121.89,
+    "sizes": [
+      "U"
+    ],
+    "colors": [
+      "Vermelho",
+      "Preto",
+      "Cinza"
+    ],
+    "image": "/banner1.png"
+  }
+]
